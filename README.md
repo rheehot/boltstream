@@ -1,3 +1,14 @@
+- Django + nginx
+- RTMP 라이브 스트리밍
+- 여러개를 동시 전송 가능
+- HLS 기반 재생 지원
+- HLS AES-128 을 이용한 재생 또는 초 단위 과금 구현 가능
+- 라이브 스트림 캡쳐 가능 (nginx-vod-module)
+- WebVTT를 이용한 타임 메타데이터
+ㅤ→ 채팅 룸 메시지 동기화
+ㅤ→ 스포츠 경기 중계 동기화
+
+
 # Boltstream
 Self-hosted Live Video Streaming Website + Backend
 
